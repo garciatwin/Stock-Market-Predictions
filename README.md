@@ -1,1 +1,2 @@
 # Stock-Market-Predictions
+The project involves collecting historical stock data and using various data science techniques such as feature engineering, data cleaning, and ML algorithms like Linear Regression, Random Forests, and Support Vector Machines to predict future stock prices. This model will be able to provide insights into future market trends and assist investors in making informed investment decisions.
